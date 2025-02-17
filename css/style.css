@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    color: ;
+    background-color: ;
+    font-family: ;
+}
+
+.wrapper{
+    max-width: ;
+    margin: 0 auto;
+}
+
+.banner{}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: ;
+}
+
+footer{}
